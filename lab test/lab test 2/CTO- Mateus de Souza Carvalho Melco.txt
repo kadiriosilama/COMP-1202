@@ -1,0 +1,37 @@
+CTO- Mateus de Souza Carvalho Melco Sfeir, CEO- Kadiri Osilama Osilama
+Dear CTO Mateus de Souza Carvalho Melco Sfeir,
+
+I hope this message finds you well.
+I am reaching out to discuss the development plan for the "CryptoConnect" website. Below, I've outlined the key features and requirements:
+
+
+Website Name: "CryptoConnect"
+Design:
+Black background (Week 1).
+Navbar for easy navigation(Week 1).
+
+With the help of flexbox(Week 2), do the following:
+1.Display 6 pictures and 6 terminologies related to CrytoConnect.
+
+Footer Design:
+Implement the footer in the form of a grid without visible lines.(Week 3).
+
+With JavaScript (continue and break)(Week 4), do the following:
+In the login process, check the folowing;
+1. Create admin username and password for only for the admin and not for the normal user.
+2. If the user enters admin password, prompt a prompt box to re-enter a password and give limit of 3 chances.[that's the break and continue statement].
+3. If the user's information exist in the local storage, if not prompt the user to with the signup link.
+
+In the signup process:
+Create a form that is user-friendly.After the locally saving the user's information, prompt a WELCOME message and a link back to the homepage.
+
+Outside main scope:
+1. Display scrolling text of the price, market cap and the 24hr change of Bitcoin.
+
+Mateus de Souza Carvalho Melco Sfeir, please attach a zip file with the solution as a reply to this post, and include a screenshot of the webpage working on the remote host. 
+
+Looking forward to your feedback and guidance.
+
+Best regards,
+CEO
+Kadiri Osilama Osilama.
