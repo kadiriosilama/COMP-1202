@@ -1,0 +1,4 @@
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\BackPack\BackPack\obj\Debug\net8.0\BackPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\BackPack\BackPack\obj\Debug\net8.0\BackPack.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\BackPack\BackPack\obj\Debug\net8.0\BackPack.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\BackPack\BackPack\obj\Debug\net8.0\BackPack.csproj.CoreCompileInputs.cache
