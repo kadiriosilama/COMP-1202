@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\bin\Debug\net8.0\Restaurante de Calme.exe
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\bin\Debug\net8.0\Restaurante de Calme.deps.json
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\bin\Debug\net8.0\Restaurante de Calme.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\bin\Debug\net8.0\Restaurante de Calme.dll
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\bin\Debug\net8.0\Restaurante de Calme.pdb
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\Restaurante de Calme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\Restaurante de Calme.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\Restaurante de Calme.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\Restaurante de Calme.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\Restaurante de Calme.dll
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\refint\Restaurante de Calme.dll
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\Restaurante de Calme.pdb
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\Restaurante de Calme.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documents\GEORGE BROWN\COMP 1202\Restaurante de Calme\Restaurante de Calme\obj\Debug\net8.0\ref\Restaurante de Calme.dll
