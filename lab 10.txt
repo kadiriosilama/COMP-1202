@@ -1,0 +1,32 @@
+class Program
+{
+
+
+    public static double average(int[] passArray){
+        int sum=0;
+        foreach (var item in passArray){
+            sum=sum+item;
+        }
+        return(double) sum/passArray.Length;
+
+    }
+    public static void Main(string[]args)
+    {
+
+    Random rand =new Random(); //  create an object of rand
+    int a=rand.Next(0,100);
+   
+    int[] randNum= new int[10];
+
+   for(int i=0;i<randNum.Length;i++)
+   {
+    randNum[i]=rand.Next(0,100);
+    Console.Write(randNum[i]+ " ");
+   }
+Console.WriteLine();
+   randNum=new int[]{12, 8, 7, 6, 27, 81, 92, 100};
+   double ave=average(randNum);
+   Console.WriteLine("The average of the elements in the array is: "+ave);
+   }
+
+}
